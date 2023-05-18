@@ -1,0 +1,20 @@
+/* Answer */
+.odd{
+    background: rgb(247, 131, 150);
+    font-family: Verdana, DejaVu sans, sans-serif;
+}
+
+#num2{
+    color: blue;
+    font-size: 36px;
+}
+
+#num3{
+    font-size: 24px;
+}
+
+#num4{
+    background: rgb(87, 255, 87);
+    font-size: 24px;
+    font-weight: bold;
+}
