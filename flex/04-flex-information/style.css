@@ -24,3 +24,29 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+
+/* answer */
+
+
+.title{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 52px;
+  /* border: 1px solid black; */
+}
+
+.item-container{
+  max-width: 200px;
+  /* border: 1px solid blue; */
+}
+
+
+
